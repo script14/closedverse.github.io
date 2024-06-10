@@ -2,17 +2,7 @@
 This isn't finished yet. Meant to be a random out-of-the-blue parody of Openverse that's supposed to be unironically better than Openverse, before Openverse even has hosting.
 
 # Requirements
-Python 3.6.2? <br>
-Django <br>
-urllib3? <br>
-lxml <br>
-passlib <br>
-bcrypt <br>
-mysqlclient if you're using mysql <br>
-pillow <br>
-imghdr? <br>
-markdown <br>
-forthebadge <br>
+Always remember to format and use clean coding practices <br>
 
 # Usage
 It's a standard Django app. <br><br>
